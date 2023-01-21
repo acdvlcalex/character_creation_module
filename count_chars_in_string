@@ -1,0 +1,5 @@
+user_input = input('put your text here: ')
+
+lst = list(f"{user_input}")
+count = len(lst)
+print(count)

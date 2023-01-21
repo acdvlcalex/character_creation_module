@@ -1,0 +1,4 @@
+list = ["return (f'{char_name} нанёс урон противнику равный {5 + randint(3, 5)}')"]
+s = 1
+for i in list:
+    print(s + 1)
